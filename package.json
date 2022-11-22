@@ -8,7 +8,7 @@
   "devDependencies": {
     "chai": "^4.3.7",
     "electron-mocha": "^11.0.2",
-    "electron-rebuild": "^3.2.10",
+    "electron-rebuild": "^3.2.9",
     "eslint": "^8.28.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
